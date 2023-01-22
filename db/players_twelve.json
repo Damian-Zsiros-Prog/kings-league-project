@@ -14,6 +14,34 @@
     }
   },
   {
+    "role": "KunDelantero",
+    "firstName": "",
+    "lastName": "",
+    "image": "kunisports-.webp",
+    "name": " ",
+    "id": "kunisports-Kunisports_10",
+    "team": {
+      "id": "kunisports",
+      "name": "Kunisports",
+      "image": "https://kingsleague.dev/teams/logos/kunisports.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/kunisports-inverse.svg"
+    }
+  },
+  {
+    "role": "EnigmaMedio",
+    "firstName": "",
+    "lastName": "",
+    "image": "xbuyer-team-.webp",
+    "name": " ",
+    "id": "xbuyer-team-69",
+    "team": {
+      "id": "xbuyer-team",
+      "name": "XBUYER TEAM",
+      "image": "https://kingsleague.dev/teams/logos/xbuyer.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/xbuyer-inverse.svg"
+    }
+  },
+  {
     "role": "ChicharitoDelantero",
     "firstName": "",
     "lastName": "",
@@ -28,40 +56,12 @@
     }
   },
   {
-    "role": "BorjaDelantero",
-    "firstName": "",
-    "lastName": "",
-    "image": "pio-fc-.webp",
-    "name": " ",
-    "id": "pio-fc-7",
-    "team": {
-      "id": "pio-fc",
-      "name": "PIO FC",
-      "image": "https://kingsleague.dev/teams/logos/pio.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/pio-inverse.svg"
-    }
-  },
-  {
-    "role": "NandoMedio",
-    "firstName": "",
-    "lastName": "",
-    "image": "jijantes-fc-.webp",
-    "name": " ",
-    "id": "jijantes-fc-18",
-    "team": {
-      "id": "jijantes-fc",
-      "name": "Jijantes FC",
-      "image": "https://kingsleague.dev/teams/logos/jijantes.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/jijantes-inverse.svg"
-    }
-  },
-  {
-    "role": "JorgeDelantero",
+    "role": "PapiDelantero",
     "firstName": "",
     "lastName": "",
     "image": "el-barrio-.webp",
     "name": " ",
-    "id": "el-barrio-99",
+    "id": "el-barrio-Barrio_27",
     "team": {
       "id": "el-barrio",
       "name": "El Barrio",
@@ -84,101 +84,17 @@
     }
   },
   {
-    "role": "GokuMedio",
+    "role": "JordiDelantero",
     "firstName": "",
     "lastName": "",
     "image": "aniquiladores-fc-.webp",
     "name": " ",
-    "id": "aniquiladores-fc-Aniquiladores_7",
+    "id": "aniquiladores-fc-18",
     "team": {
       "id": "aniquiladores-fc",
       "name": "Aniquiladores FC",
       "image": "https://kingsleague.dev/teams/logos/aniquiladores.svg",
       "imageWhite": "https://kingsleague.dev/teams/logos/aniquiladores-inverse.svg"
-    }
-  },
-  {
-    "role": "JavierMedio",
-    "firstName": "",
-    "lastName": "",
-    "image": "kunisports-.webp",
-    "name": " ",
-    "id": "kunisports-22",
-    "team": {
-      "id": "kunisports",
-      "name": "Kunisports",
-      "image": "https://kingsleague.dev/teams/logos/kunisports.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/kunisports-inverse.svg"
-    }
-  },
-  {
-    "role": "KunDelantero",
-    "firstName": "",
-    "lastName": "",
-    "image": "kunisports-.webp",
-    "name": " ",
-    "id": "kunisports-Kunisports_10",
-    "team": {
-      "id": "kunisports",
-      "name": "Kunisports",
-      "image": "https://kingsleague.dev/teams/logos/kunisports.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/kunisports-inverse.svg"
-    }
-  },
-  {
-    "role": "JoanMedio",
-    "firstName": "",
-    "lastName": "",
-    "image": "los-troncos-fc-.webp",
-    "name": " ",
-    "id": "los-troncos-fc-23",
-    "team": {
-      "id": "los-troncos-fc",
-      "name": "Los Troncos FC",
-      "image": "https://kingsleague.dev/teams/logos/los-troncos.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/los-troncos-inverse.svg"
-    }
-  },
-  {
-    "role": "AlbertoDelantero",
-    "firstName": "",
-    "lastName": "",
-    "image": "1k-.webp",
-    "name": " ",
-    "id": "1k-23",
-    "team": {
-      "id": "1k",
-      "name": "1K FC",
-      "image": "https://kingsleague.dev/teams/logos/1k.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/1k-inverse.svg"
-    }
-  },
-  {
-    "role": "CristianMedio",
-    "firstName": "",
-    "lastName": "",
-    "image": "saiyans-fc-.webp",
-    "name": " ",
-    "id": "saiyans-fc-Saiyans_3",
-    "team": {
-      "id": "saiyans-fc",
-      "name": "Saiyans FC",
-      "image": "https://kingsleague.dev/teams/logos/saiyans-fc.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/saiyans-fc-inverse.svg"
-    }
-  },
-  {
-    "role": "IbaiDelantero",
-    "firstName": "",
-    "lastName": "",
-    "image": "jijantes-fc-.webp",
-    "name": " ",
-    "id": "jijantes-fc-11",
-    "team": {
-      "id": "jijantes-fc",
-      "name": "Jijantes FC",
-      "image": "https://kingsleague.dev/teams/logos/jijantes.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/jijantes-inverse.svg"
     }
   },
   {
@@ -196,62 +112,6 @@
     }
   },
   {
-    "role": "VíctorMedio",
-    "firstName": "",
-    "lastName": "",
-    "image": "los-troncos-fc-.webp",
-    "name": " ",
-    "id": "los-troncos-fc-20",
-    "team": {
-      "id": "los-troncos-fc",
-      "name": "Los Troncos FC",
-      "image": "https://kingsleague.dev/teams/logos/los-troncos.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/los-troncos-inverse.svg"
-    }
-  },
-  {
-    "role": "JordiDelantero",
-    "firstName": "",
-    "lastName": "",
-    "image": "aniquiladores-fc-.webp",
-    "name": " ",
-    "id": "aniquiladores-fc-18",
-    "team": {
-      "id": "aniquiladores-fc",
-      "name": "Aniquiladores FC",
-      "image": "https://kingsleague.dev/teams/logos/aniquiladores.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/aniquiladores-inverse.svg"
-    }
-  },
-  {
-    "role": "EnigmaMedio",
-    "firstName": "",
-    "lastName": "",
-    "image": "xbuyer-team-.webp",
-    "name": " ",
-    "id": "xbuyer-team-69",
-    "team": {
-      "id": "xbuyer-team",
-      "name": "XBUYER TEAM",
-      "image": "https://kingsleague.dev/teams/logos/xbuyer.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/xbuyer-inverse.svg"
-    }
-  },
-  {
-    "role": "HugoDelantero",
-    "firstName": "",
-    "lastName": "",
-    "image": "porcinos-fc-.webp",
-    "name": " ",
-    "id": "porcinos-fc-11",
-    "team": {
-      "id": "porcinos-fc",
-      "name": "Porcinos FC",
-      "image": "https://kingsleague.dev/teams/logos/porcinos-fc.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/porcinos-fc-inverse.svg"
-    }
-  },
-  {
     "role": "RubénMedio",
     "firstName": "",
     "lastName": "",
@@ -266,17 +126,59 @@
     }
   },
   {
-    "role": "PapiDelantero",
+    "role": "NandoMedio",
     "firstName": "",
     "lastName": "",
-    "image": "el-barrio-.webp",
+    "image": "jijantes-fc-.webp",
     "name": " ",
-    "id": "el-barrio-Barrio_27",
+    "id": "jijantes-fc-18",
     "team": {
-      "id": "el-barrio",
-      "name": "El Barrio",
-      "image": "https://kingsleague.dev/teams/logos/el-barrio.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/el-barrio-inverse.svg"
+      "id": "jijantes-fc",
+      "name": "Jijantes FC",
+      "image": "https://kingsleague.dev/teams/logos/jijantes.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/jijantes-inverse.svg"
+    }
+  },
+  {
+    "role": "IbaiDelantero",
+    "firstName": "",
+    "lastName": "",
+    "image": "jijantes-fc-.webp",
+    "name": " ",
+    "id": "jijantes-fc-11",
+    "team": {
+      "id": "jijantes-fc",
+      "name": "Jijantes FC",
+      "image": "https://kingsleague.dev/teams/logos/jijantes.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/jijantes-inverse.svg"
+    }
+  },
+  {
+    "role": "PituMedio",
+    "firstName": "",
+    "lastName": "",
+    "image": "jijantes-fc-.webp",
+    "name": " ",
+    "id": "jijantes-fc-Jijantes_19",
+    "team": {
+      "id": "jijantes-fc",
+      "name": "Jijantes FC",
+      "image": "https://kingsleague.dev/teams/logos/jijantes.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/jijantes-inverse.svg"
+    }
+  },
+  {
+    "role": "JoanMedio",
+    "firstName": "",
+    "lastName": "",
+    "image": "los-troncos-fc-.webp",
+    "name": " ",
+    "id": "los-troncos-fc-23",
+    "team": {
+      "id": "los-troncos-fc",
+      "name": "Los Troncos FC",
+      "image": "https://kingsleague.dev/teams/logos/los-troncos.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/los-troncos-inverse.svg"
     }
   },
   {
@@ -291,6 +193,20 @@
       "name": "XBUYER TEAM",
       "image": "https://kingsleague.dev/teams/logos/xbuyer.svg",
       "imageWhite": "https://kingsleague.dev/teams/logos/xbuyer-inverse.svg"
+    }
+  },
+  {
+    "role": "CristianMedio",
+    "firstName": "",
+    "lastName": "",
+    "image": "saiyans-fc-.webp",
+    "name": " ",
+    "id": "saiyans-fc-Saiyans_3",
+    "team": {
+      "id": "saiyans-fc",
+      "name": "Saiyans FC",
+      "image": "https://kingsleague.dev/teams/logos/saiyans-fc.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/saiyans-fc-inverse.svg"
     }
   },
   {
@@ -322,6 +238,34 @@
     }
   },
   {
+    "role": "JorgeDelantero",
+    "firstName": "",
+    "lastName": "",
+    "image": "el-barrio-.webp",
+    "name": " ",
+    "id": "el-barrio-99",
+    "team": {
+      "id": "el-barrio",
+      "name": "El Barrio",
+      "image": "https://kingsleague.dev/teams/logos/el-barrio.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/el-barrio-inverse.svg"
+    }
+  },
+  {
+    "role": "JavierMedio",
+    "firstName": "",
+    "lastName": "",
+    "image": "kunisports-.webp",
+    "name": " ",
+    "id": "kunisports-22",
+    "team": {
+      "id": "kunisports",
+      "name": "Kunisports",
+      "image": "https://kingsleague.dev/teams/logos/kunisports.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/kunisports-inverse.svg"
+    }
+  },
+  {
     "role": "SergioDelantero",
     "firstName": "",
     "lastName": "",
@@ -336,17 +280,73 @@
     }
   },
   {
-    "role": "PituMedio",
+    "role": "GokuMedio",
     "firstName": "",
     "lastName": "",
-    "image": "jijantes-fc-.webp",
+    "image": "aniquiladores-fc-.webp",
     "name": " ",
-    "id": "jijantes-fc-Jijantes_19",
+    "id": "aniquiladores-fc-Aniquiladores_7",
     "team": {
-      "id": "jijantes-fc",
-      "name": "Jijantes FC",
-      "image": "https://kingsleague.dev/teams/logos/jijantes.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/jijantes-inverse.svg"
+      "id": "aniquiladores-fc",
+      "name": "Aniquiladores FC",
+      "image": "https://kingsleague.dev/teams/logos/aniquiladores.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/aniquiladores-inverse.svg"
+    }
+  },
+  {
+    "role": "BorjaDelantero",
+    "firstName": "",
+    "lastName": "",
+    "image": "pio-fc-.webp",
+    "name": " ",
+    "id": "pio-fc-7",
+    "team": {
+      "id": "pio-fc",
+      "name": "PIO FC",
+      "image": "https://kingsleague.dev/teams/logos/pio.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/pio-inverse.svg"
+    }
+  },
+  {
+    "role": "HugoDelantero",
+    "firstName": "",
+    "lastName": "",
+    "image": "porcinos-fc-.webp",
+    "name": " ",
+    "id": "porcinos-fc-11",
+    "team": {
+      "id": "porcinos-fc",
+      "name": "Porcinos FC",
+      "image": "https://kingsleague.dev/teams/logos/porcinos-fc.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/porcinos-fc-inverse.svg"
+    }
+  },
+  {
+    "role": "VíctorMedio",
+    "firstName": "",
+    "lastName": "",
+    "image": "los-troncos-fc-.webp",
+    "name": " ",
+    "id": "los-troncos-fc-20",
+    "team": {
+      "id": "los-troncos-fc",
+      "name": "Los Troncos FC",
+      "image": "https://kingsleague.dev/teams/logos/los-troncos.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/los-troncos-inverse.svg"
+    }
+  },
+  {
+    "role": "AlbertoDelantero",
+    "firstName": "",
+    "lastName": "",
+    "image": "1k-.webp",
+    "name": " ",
+    "id": "1k-23",
+    "team": {
+      "id": "1k",
+      "name": "1K FC",
+      "image": "https://kingsleague.dev/teams/logos/1k.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/1k-inverse.svg"
     }
   }
 ]
