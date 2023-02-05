@@ -205,7 +205,7 @@
   {
     "wins": 4,
     "losses": 1,
-    "scoredGoals": 7,
+    "scoredGoals": 10,
     "concededGoals": 6,
     "yellowCards": 6,
     "redCards": 0,
@@ -305,9 +305,9 @@
   },
   {
     "wins": 3,
-    "losses": -4,
+    "losses": 2,
     "scoredGoals": 15,
-    "concededGoals": 7,
+    "concededGoals": 12,
     "yellowCards": 1,
     "redCards": 0,
     "team": {
@@ -406,7 +406,7 @@
   },
   {
     "wins": 3,
-    "losses": -1,
+    "losses": 2,
     "scoredGoals": 16,
     "concededGoals": 15,
     "yellowCards": 1,
@@ -815,212 +815,6 @@
     "rank": 8
   },
   {
-    "wins": 0,
-    "losses": 2,
-    "scoredGoals": 9,
-    "concededGoals": 16,
-    "yellowCards": 5,
-    "redCards": 0,
-    "team": {
-      "color": "#fff68d",
-      "id": "pio-fc",
-      "name": "PIO FC",
-      "image": "https://kingsleague.dev/teams/logos/pio.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/pio-inverse.svg",
-      "url": "https://kingsleague.pro/team/pio-fc/",
-      "channel": "https://twitch.tv/rivers_gg",
-      "socialNetworks": [
-        "https://www.twitch.tv/rivers_gg",
-        "https://twitter.com/PIO_FC"
-      ],
-      "players": [
-        {
-          "id": "pio-fc-4",
-          "name": "Lopo",
-          "role": "jugador 11",
-          "image": "pio-fc-lopo.webp"
-        },
-        {
-          "id": "pio-fc-1",
-          "name": "Jorge",
-          "role": "Portero",
-          "image": "pio-fc-jorge.webp"
-        },
-        {
-          "id": "pio-fc-2",
-          "name": "Carlitos",
-          "role": "Defensa",
-          "image": "pio-fc-carlitos.webp"
-        },
-        {
-          "id": "pio-fc-6",
-          "name": "Pau Fer",
-          "role": "Medio",
-          "image": "pio-fc-pau-fer.webp"
-        },
-        {
-          "id": "pio-fc-10",
-          "name": "Carlinhos",
-          "role": "Delantero",
-          "image": "pio-fc-carlinhos.webp"
-        },
-        {
-          "id": "pio-fc-21",
-          "name": "B. Juárez",
-          "role": "Medio",
-          "image": "pio-fc-b-juarez.webp"
-        },
-        {
-          "id": "pio-fc-42",
-          "name": "Turner",
-          "role": "Defensa",
-          "image": "pio-fc-turner.webp"
-        },
-        {
-          "id": "pio-fc-11",
-          "name": "Adri",
-          "role": "Delantero",
-          "image": "pio-fc-adri.webp"
-        },
-        {
-          "id": "pio-fc-8",
-          "name": "Cokita",
-          "role": "Medio",
-          "image": "pio-fc-cokita.webp"
-        },
-        {
-          "id": "pio-fc-22",
-          "name": "A. Ropero",
-          "role": "Medio",
-          "image": "pio-fc-a-ropero.webp"
-        },
-        {
-          "id": "pio-fc-14",
-          "name": "Santiago",
-          "role": "Defensa",
-          "image": "pio-fc-santiago.webp"
-        }
-      ],
-      "coach": "Gerardo Torrado",
-      "shortName": "PIO",
-      "coachInfo": {
-        "name": "Gerardo Torrado",
-        "image": "gerardo-torrado.webp"
-      },
-      "president": {
-        "id": "rivers",
-        "name": "Rivers",
-        "image": "https://kingsleague.dev/presidents/rivers.webp",
-        "teamId": "pio-fc"
-      }
-    },
-    "rank": 9
-  },
-  {
-    "wins": 0,
-    "losses": 5,
-    "scoredGoals": 11,
-    "concededGoals": 19,
-    "yellowCards": 3,
-    "redCards": 0,
-    "team": {
-      "id": "jijantes-fc",
-      "color": "#d4293d",
-      "name": "Jijantes FC",
-      "image": "https://kingsleague.dev/teams/logos/jijantes.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/jijantes-inverse.svg",
-      "url": "https://kingsleague.pro/team/jijantes-fc/",
-      "channel": "https://twitch.tv/gerardromero",
-      "socialNetworks": [
-        "https://www.twitch.tv/gerardromero",
-        "https://www.instagram.com/jijantesfc/?hl=es",
-        "https://twitter.com/JijantesFC?s=20&t=40PQRh7lXf2HVdUs1pe-9w",
-        "https://www.tiktok.com/@jijantesfutbolclub"
-      ],
-      "players": [
-        {
-          "id": "jijantes-fc-26",
-          "name": "Soriano",
-          "role": "jugador 11",
-          "image": "jijantes-fc-soriano.webp"
-        },
-        {
-          "id": "jijantes-fc-8",
-          "name": "Alsina",
-          "role": "Medio",
-          "image": "jijantes-fc-alsina.webp"
-        },
-        {
-          "id": "jijantes-fc-1",
-          "name": "Pol",
-          "role": "Portero",
-          "image": "jijantes-fc-pol.webp"
-        },
-        {
-          "id": "jijantes-fc-4",
-          "name": "Jay",
-          "role": "Defensa",
-          "image": "jijantes-fc-jay.webp"
-        },
-        {
-          "id": "jijantes-fc-7",
-          "name": "Quero",
-          "role": "Medio",
-          "image": "jijantes-fc-quero.webp"
-        },
-        {
-          "id": "jijantes-fc-5",
-          "name": "Arnau M.V",
-          "role": "Defensa",
-          "image": "jijantes-fc-arnau-mv.webp"
-        },
-        {
-          "id": "jijantes-fc-10",
-          "name": "De la Villa",
-          "role": "Delantero",
-          "image": "jijantes-fc-de-la-villa.webp"
-        },
-        {
-          "id": "jijantes-fc-30",
-          "name": "Maca",
-          "role": "Medio",
-          "image": "jijantes-fc-maca.webp"
-        },
-        {
-          "id": "jijantes-fc-6",
-          "name": "Noel",
-          "role": "Defensa",
-          "image": "jijantes-fc-noel.webp"
-        },
-        {
-          "id": "jijantes-fc-31",
-          "name": "Dorado",
-          "role": "Delantero",
-          "image": "jijantes-fc-dorado.webp"
-        },
-        {
-          "id": "jijantes-fc-25",
-          "name": "Mario",
-          "role": "Portero",
-          "image": "jijantes-fc-mario.webp"
-        }
-      ],
-      "coach": "Marc Carmona",
-      "shortName": "JFC",
-      "coachInfo": {
-        "name": "Marc Carmona",
-        "image": "marc-carmona.webp"
-      },
-      "president": {
-        "id": "gerard-romero",
-        "name": "Gerard Romero",
-        "image": "https://kingsleague.dev/presidents/gerard-romero.webp",
-        "teamId": "jijantes-fc"
-      }
-    },
-    "rank": 10
-  },
-  {
     "wins": 2,
     "losses": 3,
     "scoredGoals": 15,
@@ -1122,7 +916,7 @@
         "teamId": "rayo-barcelona"
       }
     },
-    "rank": 11
+    "rank": 9
   },
   {
     "wins": 2,
@@ -1224,6 +1018,212 @@
         "name": "Perxitaa",
         "image": "https://kingsleague.dev/presidents/perxitaa.webp",
         "teamId": "los-troncos-fc"
+      }
+    },
+    "rank": 10
+  },
+  {
+    "wins": 0,
+    "losses": 5,
+    "scoredGoals": 9,
+    "concededGoals": 16,
+    "yellowCards": 5,
+    "redCards": 0,
+    "team": {
+      "color": "#fff68d",
+      "id": "pio-fc",
+      "name": "PIO FC",
+      "image": "https://kingsleague.dev/teams/logos/pio.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/pio-inverse.svg",
+      "url": "https://kingsleague.pro/team/pio-fc/",
+      "channel": "https://twitch.tv/rivers_gg",
+      "socialNetworks": [
+        "https://www.twitch.tv/rivers_gg",
+        "https://twitter.com/PIO_FC"
+      ],
+      "players": [
+        {
+          "id": "pio-fc-4",
+          "name": "Lopo",
+          "role": "jugador 11",
+          "image": "pio-fc-lopo.webp"
+        },
+        {
+          "id": "pio-fc-1",
+          "name": "Jorge",
+          "role": "Portero",
+          "image": "pio-fc-jorge.webp"
+        },
+        {
+          "id": "pio-fc-2",
+          "name": "Carlitos",
+          "role": "Defensa",
+          "image": "pio-fc-carlitos.webp"
+        },
+        {
+          "id": "pio-fc-6",
+          "name": "Pau Fer",
+          "role": "Medio",
+          "image": "pio-fc-pau-fer.webp"
+        },
+        {
+          "id": "pio-fc-10",
+          "name": "Carlinhos",
+          "role": "Delantero",
+          "image": "pio-fc-carlinhos.webp"
+        },
+        {
+          "id": "pio-fc-21",
+          "name": "B. Juárez",
+          "role": "Medio",
+          "image": "pio-fc-b-juarez.webp"
+        },
+        {
+          "id": "pio-fc-42",
+          "name": "Turner",
+          "role": "Defensa",
+          "image": "pio-fc-turner.webp"
+        },
+        {
+          "id": "pio-fc-11",
+          "name": "Adri",
+          "role": "Delantero",
+          "image": "pio-fc-adri.webp"
+        },
+        {
+          "id": "pio-fc-8",
+          "name": "Cokita",
+          "role": "Medio",
+          "image": "pio-fc-cokita.webp"
+        },
+        {
+          "id": "pio-fc-22",
+          "name": "A. Ropero",
+          "role": "Medio",
+          "image": "pio-fc-a-ropero.webp"
+        },
+        {
+          "id": "pio-fc-14",
+          "name": "Santiago",
+          "role": "Defensa",
+          "image": "pio-fc-santiago.webp"
+        }
+      ],
+      "coach": "Gerardo Torrado",
+      "shortName": "PIO",
+      "coachInfo": {
+        "name": "Gerardo Torrado",
+        "image": "gerardo-torrado.webp"
+      },
+      "president": {
+        "id": "rivers",
+        "name": "Rivers",
+        "image": "https://kingsleague.dev/presidents/rivers.webp",
+        "teamId": "pio-fc"
+      }
+    },
+    "rank": 11
+  },
+  {
+    "wins": 0,
+    "losses": 5,
+    "scoredGoals": 11,
+    "concededGoals": 19,
+    "yellowCards": 3,
+    "redCards": 0,
+    "team": {
+      "id": "jijantes-fc",
+      "color": "#d4293d",
+      "name": "Jijantes FC",
+      "image": "https://kingsleague.dev/teams/logos/jijantes.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/jijantes-inverse.svg",
+      "url": "https://kingsleague.pro/team/jijantes-fc/",
+      "channel": "https://twitch.tv/gerardromero",
+      "socialNetworks": [
+        "https://www.twitch.tv/gerardromero",
+        "https://www.instagram.com/jijantesfc/?hl=es",
+        "https://twitter.com/JijantesFC?s=20&t=40PQRh7lXf2HVdUs1pe-9w",
+        "https://www.tiktok.com/@jijantesfutbolclub"
+      ],
+      "players": [
+        {
+          "id": "jijantes-fc-26",
+          "name": "Soriano",
+          "role": "jugador 11",
+          "image": "jijantes-fc-soriano.webp"
+        },
+        {
+          "id": "jijantes-fc-8",
+          "name": "Alsina",
+          "role": "Medio",
+          "image": "jijantes-fc-alsina.webp"
+        },
+        {
+          "id": "jijantes-fc-1",
+          "name": "Pol",
+          "role": "Portero",
+          "image": "jijantes-fc-pol.webp"
+        },
+        {
+          "id": "jijantes-fc-4",
+          "name": "Jay",
+          "role": "Defensa",
+          "image": "jijantes-fc-jay.webp"
+        },
+        {
+          "id": "jijantes-fc-7",
+          "name": "Quero",
+          "role": "Medio",
+          "image": "jijantes-fc-quero.webp"
+        },
+        {
+          "id": "jijantes-fc-5",
+          "name": "Arnau M.V",
+          "role": "Defensa",
+          "image": "jijantes-fc-arnau-mv.webp"
+        },
+        {
+          "id": "jijantes-fc-10",
+          "name": "De la Villa",
+          "role": "Delantero",
+          "image": "jijantes-fc-de-la-villa.webp"
+        },
+        {
+          "id": "jijantes-fc-30",
+          "name": "Maca",
+          "role": "Medio",
+          "image": "jijantes-fc-maca.webp"
+        },
+        {
+          "id": "jijantes-fc-6",
+          "name": "Noel",
+          "role": "Defensa",
+          "image": "jijantes-fc-noel.webp"
+        },
+        {
+          "id": "jijantes-fc-31",
+          "name": "Dorado",
+          "role": "Delantero",
+          "image": "jijantes-fc-dorado.webp"
+        },
+        {
+          "id": "jijantes-fc-25",
+          "name": "Mario",
+          "role": "Portero",
+          "image": "jijantes-fc-mario.webp"
+        }
+      ],
+      "coach": "Marc Carmona",
+      "shortName": "JFC",
+      "coachInfo": {
+        "name": "Marc Carmona",
+        "image": "marc-carmona.webp"
+      },
+      "president": {
+        "id": "gerard-romero",
+        "name": "Gerard Romero",
+        "image": "https://kingsleague.dev/presidents/gerard-romero.webp",
+        "teamId": "jijantes-fc"
       }
     },
     "rank": 12
