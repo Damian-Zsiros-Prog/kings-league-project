@@ -1,10 +1,10 @@
 {
   "leaderboard": [
     {
-      "wins": 4,
+      "wins": 5,
       "losses": 1,
-      "scoredGoals": 12,
-      "concededGoals": 5,
+      "scoredGoals": 14,
+      "concededGoals": 7,
       "yellowCards": 6,
       "redCards": 1,
       "rank": 1,
@@ -17,10 +17,10 @@
       }
     },
     {
-      "wins": 4,
+      "wins": 0,
       "losses": 1,
-      "scoredGoals": 18,
-      "concededGoals": 12,
+      "scoredGoals": 22,
+      "concededGoals": 15,
       "yellowCards": 1,
       "redCards": 0,
       "rank": 2,
@@ -35,8 +35,8 @@
     {
       "wins": 4,
       "losses": 1,
-      "scoredGoals": 10,
-      "concededGoals": 6,
+      "scoredGoals": 13,
+      "concededGoals": 8,
       "yellowCards": 6,
       "redCards": 0,
       "rank": 3,
@@ -49,35 +49,35 @@
       }
     },
     {
-      "wins": 3,
-      "losses": 2,
+      "wins": 1,
+      "losses": 3,
       "scoredGoals": 15,
-      "concededGoals": 12,
+      "concededGoals": 25,
+      "yellowCards": 2,
+      "redCards": 1,
+      "rank": 4,
+      "team": {
+        "id": "los-troncos-fc",
+        "name": "Los Troncos FC",
+        "image": "https://kingsleague.dev/teams/logos/los-troncos.svg",
+        "coach": "Pol Font",
+        "shortName": "TFC"
+      }
+    },
+    {
+      "wins": 0,
+      "losses": 2,
+      "scoredGoals": 18,
+      "concededGoals": 14,
       "yellowCards": 1,
       "redCards": 0,
-      "rank": 4,
+      "rank": 5,
       "team": {
         "id": "ultimate-mostoles",
         "name": "Ultimate Móstoles",
         "image": "https://kingsleague.dev/teams/logos/ultimate-mostoles.svg",
         "coach": "Nacho Castro",
         "shortName": "ULT"
-      }
-    },
-    {
-      "wins": 3,
-      "losses": 2,
-      "scoredGoals": 16,
-      "concededGoals": 15,
-      "yellowCards": 1,
-      "redCards": 0,
-      "rank": 5,
-      "team": {
-        "id": "1k",
-        "name": "1K FC",
-        "image": "https://kingsleague.dev/teams/logos/1k.svg",
-        "coach": "Julio García Mera",
-        "shortName": "1K"
       }
     }
   ],
