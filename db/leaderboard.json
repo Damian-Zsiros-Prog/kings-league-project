@@ -101,10 +101,10 @@
     "rank": 1
   },
   {
-    "wins": 5,
+    "wins": 6,
     "losses": 1,
-    "scoredGoals": 22,
-    "concededGoals": 15,
+    "scoredGoals": 27,
+    "concededGoals": 16,
     "yellowCards": 1,
     "redCards": 0,
     "team": {
@@ -510,9 +510,9 @@
   },
   {
     "wins": 3,
-    "losses": 3,
-    "scoredGoals": 17,
-    "concededGoals": 18,
+    "losses": 4,
+    "scoredGoals": 19,
+    "concededGoals": 21,
     "yellowCards": 1,
     "redCards": 0,
     "team": {
@@ -919,10 +919,10 @@
     "rank": 9
   },
   {
-    "wins": 2,
+    "wins": 3,
     "losses": 4,
-    "scoredGoals": 17,
-    "concededGoals": 21,
+    "scoredGoals": 20,
+    "concededGoals": 23,
     "yellowCards": 0,
     "redCards": 0,
     "team": {
