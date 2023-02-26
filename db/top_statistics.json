@@ -217,24 +217,24 @@
       "teamId": "pio-fc"
     },
     {
+      "playerName": "Espinosa",
+      "gamesPlayed": 6,
+      "assists": 5,
+      "rank": 4,
+      "team": "Porcinos FC",
+      "image": "https://kingsleague.dev/teams/logos/porcinos-fc.svg",
+      "playerImage": "placeholder.png",
+      "teamId": "porcinos-fc"
+    },
+    {
       "playerName": "Franky P.",
       "gamesPlayed": 7,
       "assists": 5,
-      "rank": 4,
+      "rank": 5,
       "team": "Rayo de Barcelona",
       "image": "https://kingsleague.dev/teams/logos/rayo-barcelona.svg",
       "playerImage": "rayo-barcelona-franky-p.webp",
       "teamId": "rayo-barcelona"
-    },
-    {
-      "playerName": "Verdú, J.",
-      "gamesPlayed": 5,
-      "assists": 4,
-      "rank": 5,
-      "team": "Los Troncos FC",
-      "image": "https://kingsleague.dev/teams/logos/los-troncos.svg",
-      "playerImage": "placeholder.png",
-      "teamId": "los-troncos-fc"
     }
   ]
 }
