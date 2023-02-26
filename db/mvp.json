@@ -1,65 +1,105 @@
 [
   {
-    "playerName": "A. Bueno",
+    "playerName": "F. Hernandéz",
     "gamesPlayed": 6,
-    "mvps": 2,
+    "mvps": 4,
     "rank": 1,
-    "team": "1K FC",
-    "image": "https://kingsleague.dev/teams/logos/1k.svg"
-  },
-  {
-    "playerName": "F. Hernández",
-    "gamesPlayed": 4,
-    "mvps": 2,
-    "rank": 2,
     "team": "Aniquiladores FC",
     "image": "https://kingsleague.dev/teams/logos/aniquiladores.svg"
   },
   {
     "playerName": "Ubón",
-    "gamesPlayed": 6,
-    "mvps": 2,
-    "rank": 3,
+    "gamesPlayed": 7,
+    "mvps": 3,
+    "rank": 2,
     "team": "El Barrio",
     "image": "https://kingsleague.dev/teams/logos/el-barrio.svg"
   },
   {
-    "playerName": "Torrentbó",
+    "playerName": "A. Bueno",
+    "gamesPlayed": 7,
+    "mvps": 2,
+    "rank": 3,
+    "team": "1K FC",
+    "image": "https://kingsleague.dev/teams/logos/1k.svg"
+  },
+  {
+    "playerName": "Pol",
     "gamesPlayed": 6,
     "mvps": 2,
     "rank": 4,
+    "team": "Jijantes FC",
+    "image": "https://kingsleague.dev/teams/logos/jijantes.svg"
+  },
+  {
+    "playerName": "Torrentbó",
+    "gamesPlayed": 7,
+    "mvps": 2,
+    "rank": 5,
     "team": "Kunisports",
     "image": "https://kingsleague.dev/teams/logos/kunisports.svg"
   },
   {
+    "playerName": "Verdú, J.",
+    "gamesPlayed": 5,
+    "mvps": 2,
+    "rank": 6,
+    "team": "Los Troncos FC",
+    "image": "https://kingsleague.dev/teams/logos/los-troncos.svg"
+  },
+  {
+    "playerName": "Briones",
+    "gamesPlayed": 7,
+    "mvps": 2,
+    "rank": 7,
+    "team": "Saiyans FC",
+    "image": "https://kingsleague.dev/teams/logos/saiyans-fc.svg"
+  },
+  {
+    "playerName": "R. Carbó",
+    "gamesPlayed": 7,
+    "mvps": 2,
+    "rank": 8,
+    "team": "Saiyans FC",
+    "image": "https://kingsleague.dev/teams/logos/saiyans-fc.svg"
+  },
+  {
+    "playerName": "Juanma Glez.",
+    "gamesPlayed": 7,
+    "mvps": 2,
+    "rank": 9,
+    "team": "Ultimate Móstoles",
+    "image": "https://kingsleague.dev/teams/logos/ultimate-mostoles.svg"
+  },
+  {
     "playerName": "Ricardo",
-    "gamesPlayed": 6,
+    "gamesPlayed": 7,
     "mvps": 1,
-    "rank": 5,
+    "rank": 10,
     "team": "1K FC",
     "image": "https://kingsleague.dev/teams/logos/1k.svg"
   },
   {
     "playerName": "Sorroche",
-    "gamesPlayed": 6,
+    "gamesPlayed": 7,
     "mvps": 1,
-    "rank": 6,
+    "rank": 11,
     "team": "1K FC",
     "image": "https://kingsleague.dev/teams/logos/1k.svg"
   },
   {
     "playerName": "Jacobo",
-    "gamesPlayed": 6,
+    "gamesPlayed": 7,
     "mvps": 1,
-    "rank": 7,
+    "rank": 12,
     "team": "El Barrio",
     "image": "https://kingsleague.dev/teams/logos/el-barrio.svg"
   },
   {
     "playerName": "Ibai",
-    "gamesPlayed": 1,
+    "gamesPlayed": 2,
     "mvps": 1,
-    "rank": 8,
+    "rank": 13,
     "team": "Jijantes FC",
     "image": "https://kingsleague.dev/teams/logos/jijantes.svg"
   },
@@ -67,15 +107,15 @@
     "playerName": "Soriano",
     "gamesPlayed": 6,
     "mvps": 1,
-    "rank": 9,
+    "rank": 14,
     "team": "Jijantes FC",
     "image": "https://kingsleague.dev/teams/logos/jijantes.svg"
   },
   {
     "playerName": "Víctor",
-    "gamesPlayed": 6,
+    "gamesPlayed": 7,
     "mvps": 1,
-    "rank": 10,
+    "rank": 15,
     "team": "Kunisports",
     "image": "https://kingsleague.dev/teams/logos/kunisports.svg"
   },
@@ -83,88 +123,120 @@
     "playerName": "Kun Agüero",
     "gamesPlayed": 2,
     "mvps": 1,
-    "rank": 11,
+    "rank": 16,
     "team": "Kunisports",
     "image": "https://kingsleague.dev/teams/logos/kunisports.svg"
   },
   {
-    "playerName": "E. Álvaro «Roble»",
-    "gamesPlayed": 6,
+    "playerName": "Coro",
+    "gamesPlayed": 7,
     "mvps": 1,
-    "rank": 12,
+    "rank": 17,
+    "team": "Kunisports",
+    "image": "https://kingsleague.dev/teams/logos/kunisports.svg"
+  },
+  {
+    "playerName": "Álvaro, E.",
+    "gamesPlayed": 7,
+    "mvps": 1,
+    "rank": 18,
     "team": "Los Troncos FC",
     "image": "https://kingsleague.dev/teams/logos/los-troncos.svg"
   },
   {
-    "playerName": "J. Verdú «Gingko»",
-    "gamesPlayed": 6,
+    "playerName": "Lechuga, P.",
+    "gamesPlayed": 7,
     "mvps": 1,
-    "rank": 13,
+    "rank": 19,
     "team": "Los Troncos FC",
     "image": "https://kingsleague.dev/teams/logos/los-troncos.svg"
+  },
+  {
+    "playerName": "Carlitos",
+    "gamesPlayed": 7,
+    "mvps": 1,
+    "rank": 20,
+    "team": "PIO FC",
+    "image": "https://kingsleague.dev/teams/logos/pio.svg"
+  },
+  {
+    "playerName": "Lopo",
+    "gamesPlayed": 7,
+    "mvps": 1,
+    "rank": 21,
+    "team": "PIO FC",
+    "image": "https://kingsleague.dev/teams/logos/pio.svg"
   },
   {
     "playerName": "Lao",
-    "gamesPlayed": 6,
+    "gamesPlayed": 7,
     "mvps": 1,
-    "rank": 14,
+    "rank": 22,
     "team": "Porcinos FC",
     "image": "https://kingsleague.dev/teams/logos/porcinos-fc.svg"
   },
   {
     "playerName": "G. Cichero",
-    "gamesPlayed": 6,
+    "gamesPlayed": 7,
     "mvps": 1,
-    "rank": 15,
+    "rank": 23,
     "team": "Porcinos FC",
     "image": "https://kingsleague.dev/teams/logos/porcinos-fc.svg"
   },
   {
-    "playerName": "Briones",
-    "gamesPlayed": 6,
+    "playerName": "J. Segovia",
+    "gamesPlayed": 7,
     "mvps": 1,
-    "rank": 16,
-    "team": "Saiyans FC",
-    "image": "https://kingsleague.dev/teams/logos/saiyans-fc.svg"
-  },
-  {
-    "playerName": "R. Carbó",
-    "gamesPlayed": 6,
-    "mvps": 1,
-    "rank": 17,
-    "team": "Saiyans FC",
-    "image": "https://kingsleague.dev/teams/logos/saiyans-fc.svg"
+    "rank": 24,
+    "team": "Porcinos FC",
+    "image": "https://kingsleague.dev/teams/logos/porcinos-fc.svg"
   },
   {
     "playerName": "Feliu",
-    "gamesPlayed": 6,
+    "gamesPlayed": 7,
     "mvps": 1,
-    "rank": 18,
+    "rank": 25,
     "team": "Saiyans FC",
     "image": "https://kingsleague.dev/teams/logos/saiyans-fc.svg"
   },
   {
     "playerName": "Arché",
-    "gamesPlayed": 6,
+    "gamesPlayed": 7,
     "mvps": 1,
-    "rank": 19,
+    "rank": 26,
     "team": "Ultimate Móstoles",
     "image": "https://kingsleague.dev/teams/logos/ultimate-mostoles.svg"
   },
   {
-    "playerName": "Juanma Glez",
-    "gamesPlayed": 6,
+    "playerName": "Poch",
+    "gamesPlayed": 7,
     "mvps": 1,
-    "rank": 20,
-    "team": "Ultimate Móstoles",
-    "image": "https://kingsleague.dev/teams/logos/ultimate-mostoles.svg"
-  },
-  {
-    "playerName": "Enigma",
-    "gamesPlayed": 2,
-    "mvps": 1,
-    "rank": 21,
+    "rank": 27,
     "team": "XBUYER TEAM",
     "image": "https://kingsleague.dev/teams/logos/xbuyer.svg"
+  },
+  {
+    "playerName": "C. Castro",
+    "gamesPlayed": 7,
+    "mvps": 1,
+    "rank": 28,
+    "team": "XBUYER TEAM",
+    "image": "https://kingsleague.dev/teams/logos/xbuyer.svg"
+  },
+  {
+    "playerName": "Fouad",
+    "gamesPlayed": 2,
+    "mvps": 1,
+    "rank": 29,
+    "team": "XBUYER TEAM",
+    "image": "https://kingsleague.dev/teams/logos/xbuyer.svg"
+  },
+  {
+    "playerName": "Corvo",
+    "gamesPlayed": 2,
+    "mvps": 1,
+    "rank": 30,
+    "team": "PIO FC",
+    "image": "https://kingsleague.dev/teams/logos/pio.svg"
   }
 ]
