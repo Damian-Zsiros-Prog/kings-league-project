@@ -1,29 +1,13 @@
 {
   "leaderboard": [
     {
-      "wins": 6,
+      "wins": 7,
       "losses": 2,
-      "scoredGoals": 27,
-      "concededGoals": 17,
-      "yellowCards": 10,
+      "scoredGoals": 19,
+      "concededGoals": 11,
+      "yellowCards": 8,
       "redCards": 0,
       "rank": 1,
-      "team": {
-        "id": "porcinos-fc",
-        "name": "Porcinos FC",
-        "image": "https://kingsleague.dev/teams/logos/porcinos-fc.svg",
-        "coach": "Juvenal Edjogo",
-        "shortName": "POR"
-      }
-    },
-    {
-      "wins": 6,
-      "losses": 2,
-      "scoredGoals": 16,
-      "concededGoals": 10,
-      "yellowCards": 6,
-      "redCards": 0,
-      "rank": 2,
       "team": {
         "id": "saiyans-fc",
         "name": "Saiyans FC",
@@ -33,13 +17,13 @@
       }
     },
     {
-      "wins": 6,
+      "wins": 7,
       "losses": 2,
-      "scoredGoals": 24,
-      "concededGoals": 18,
-      "yellowCards": 6,
+      "scoredGoals": 29,
+      "concededGoals": 22,
+      "yellowCards": 7,
       "redCards": 0,
-      "rank": 3,
+      "rank": 2,
       "team": {
         "id": "ultimate-mostoles",
         "name": "Ultimate Móstoles",
@@ -50,10 +34,26 @@
     },
     {
       "wins": 6,
-      "losses": 2,
+      "losses": 3,
+      "scoredGoals": 31,
+      "concededGoals": 22,
+      "yellowCards": 9,
+      "redCards": 0,
+      "rank": 3,
+      "team": {
+        "id": "porcinos-fc",
+        "name": "Porcinos FC",
+        "image": "https://kingsleague.dev/teams/logos/porcinos-fc.svg",
+        "coach": "Juvenal Edjogo",
+        "shortName": "POR"
+      }
+    },
+    {
+      "wins": 6,
+      "losses": 3,
       "scoredGoals": 18,
-      "concededGoals": 15,
-      "yellowCards": 3,
+      "concededGoals": 19,
+      "yellowCards": -1,
       "redCards": 0,
       "rank": 4,
       "team": {
@@ -65,11 +65,11 @@
       }
     },
     {
-      "wins": 4,
+      "wins": 5,
       "losses": 4,
-      "scoredGoals": 26,
-      "concededGoals": 17,
-      "yellowCards": 9,
+      "scoredGoals": 29,
+      "concededGoals": 18,
+      "yellowCards": 11,
       "redCards": 0,
       "rank": 5,
       "team": {
