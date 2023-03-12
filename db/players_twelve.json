@@ -364,6 +364,20 @@
     }
   },
   {
+    "role": "DavidDelantero",
+    "firstName": "",
+    "lastName": "",
+    "image": "aniquiladores-fc-.webp",
+    "name": " ",
+    "id": "aniquiladores-fc-7",
+    "team": {
+      "id": "aniquiladores-fc",
+      "name": "Aniquiladores FC",
+      "image": "https://kingsleague.dev/teams/logos/aniquiladores.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/aniquiladores-inverse.svg"
+    }
+  },
+  {
     "role": "IbaiDelantero",
     "firstName": "",
     "lastName": "",
@@ -431,20 +445,6 @@
       "name": "XBUYER TEAM",
       "image": "https://kingsleague.dev/teams/logos/xbuyer.svg",
       "imageWhite": "https://kingsleague.dev/teams/logos/xbuyer-inverse.svg"
-    }
-  },
-  {
-    "role": "DavidDelantero",
-    "firstName": "",
-    "lastName": "",
-    "image": "aniquiladores-fc-.webp",
-    "name": " ",
-    "id": "aniquiladores-fc-7",
-    "team": {
-      "id": "aniquiladores-fc",
-      "name": "Aniquiladores FC",
-      "image": "https://kingsleague.dev/teams/logos/aniquiladores.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/aniquiladores-inverse.svg"
     }
   },
   {
