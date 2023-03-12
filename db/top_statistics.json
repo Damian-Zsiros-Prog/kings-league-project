@@ -83,10 +83,20 @@
   ],
   "mvp": [
     {
+      "playerName": "F. Hernández",
+      "gamesPlayed": 8,
+      "mvps": 4,
+      "rank": 1,
+      "team": "Aniquiladores FC",
+      "image": "https://kingsleague.dev/teams/logos/aniquiladores.svg",
+      "playerImage": "placeholder.png",
+      "teamId": "aniquiladores-fc"
+    },
+    {
       "playerName": "Ubón",
       "gamesPlayed": 9,
       "mvps": 4,
-      "rank": 1,
+      "rank": 2,
       "team": "El Barrio",
       "image": "https://kingsleague.dev/teams/logos/el-barrio.svg",
       "playerImage": "el-barrio-ubn.webp",
@@ -96,7 +106,7 @@
       "playerName": "Torrentbó",
       "gamesPlayed": 9,
       "mvps": 3,
-      "rank": 2,
+      "rank": 3,
       "team": "Kunisports",
       "image": "https://kingsleague.dev/teams/logos/kunisports.svg",
       "playerImage": "kunisports-torrentb.webp",
@@ -106,7 +116,7 @@
       "playerName": "J. Verdú",
       "gamesPlayed": 7,
       "mvps": 3,
-      "rank": 3,
+      "rank": 4,
       "team": "Los Troncos FC",
       "image": "https://kingsleague.dev/teams/logos/los-troncos.svg",
       "playerImage": "placeholder.png",
@@ -116,21 +126,11 @@
       "playerName": "Lopo",
       "gamesPlayed": 9,
       "mvps": 3,
-      "rank": 4,
+      "rank": 5,
       "team": "PIO FC",
       "image": "https://kingsleague.dev/teams/logos/pio.svg",
       "playerImage": "pio-fc-lopo.webp",
       "teamId": "pio-fc"
-    },
-    {
-      "playerName": "Briones",
-      "gamesPlayed": 9,
-      "mvps": 3,
-      "rank": 5,
-      "team": "Saiyans FC",
-      "image": "https://kingsleague.dev/teams/logos/saiyans-fc.svg",
-      "playerImage": "saiyans-fc-briones.webp",
-      "teamId": "saiyans-fc"
     }
   ],
   "topScorers": [
