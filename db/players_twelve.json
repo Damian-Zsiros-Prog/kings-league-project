@@ -1,5 +1,19 @@
 [
   {
+    "role": "M.Delantero",
+    "firstName": "",
+    "lastName": "",
+    "image": "kunisports-.webp",
+    "name": " ",
+    "id": "kunisports-Kunisports_96",
+    "team": {
+      "id": "kunisports",
+      "name": "Kunisports",
+      "image": "https://kingsleague.dev/teams/logos/kunisports.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/kunisports-inverse.svg"
+    }
+  },
+  {
     "role": "FernandãoDelantero",
     "firstName": "",
     "lastName": "",
@@ -70,7 +84,7 @@
     }
   },
   {
-    "role": "ArmandoMedio",
+    "role": "MandiMedio",
     "firstName": "",
     "lastName": "",
     "image": "rayo-barcelona-.webp",
