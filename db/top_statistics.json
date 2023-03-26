@@ -84,7 +84,7 @@
   "mvp": [
     {
       "playerName": "Ubón",
-      "gamesPlayed": 11,
+      "gamesPlayed": 12,
       "mvps": 5,
       "rank": 1,
       "team": "El Barrio",
@@ -94,7 +94,7 @@
     },
     {
       "playerName": "F. Hernández",
-      "gamesPlayed": 10,
+      "gamesPlayed": 11,
       "mvps": 4,
       "rank": 2,
       "team": "Aniquiladores FC",
@@ -104,7 +104,7 @@
     },
     {
       "playerName": "E. Álvaro",
-      "gamesPlayed": 11,
+      "gamesPlayed": 12,
       "mvps": 4,
       "rank": 3,
       "team": "Los Troncos FC",
@@ -137,7 +137,7 @@
     {
       "rank": 1,
       "playerName": "Ubón",
-      "gamesPlayed": 11,
+      "gamesPlayed": 12,
       "goals": 15,
       "team": "El Barrio",
       "image": "https://kingsleague.dev/teams/logos/el-barrio.svg",
@@ -146,8 +146,8 @@
     },
     {
       "rank": 2,
-      "playerName": "E. Álvaro",
-      "gamesPlayed": 11,
+      "playerName": "Álvaro, E.",
+      "gamesPlayed": 12,
       "goals": 14,
       "team": "Los Troncos FC",
       "image": "https://kingsleague.dev/teams/logos/los-troncos.svg",
@@ -166,8 +166,8 @@
     },
     {
       "rank": 4,
-      "playerName": "J. Verdú",
-      "gamesPlayed": 9,
+      "playerName": "Verdú, J.",
+      "gamesPlayed": 10,
       "goals": 11,
       "team": "Los Troncos FC",
       "image": "https://kingsleague.dev/teams/logos/los-troncos.svg",
@@ -177,7 +177,7 @@
     {
       "rank": 5,
       "playerName": "R. Carbó",
-      "gamesPlayed": 11,
+      "gamesPlayed": 12,
       "goals": 11,
       "team": "Saiyans FC",
       "image": "https://kingsleague.dev/teams/logos/saiyans-fc.svg",
@@ -198,7 +198,7 @@
     },
     {
       "playerName": "J. Verdú",
-      "gamesPlayed": 9,
+      "gamesPlayed": 10,
       "assists": 8,
       "rank": 2,
       "team": "Los Troncos FC",
@@ -208,7 +208,7 @@
     },
     {
       "playerName": "Espinosa",
-      "gamesPlayed": 10,
+      "gamesPlayed": 11,
       "assists": 7,
       "rank": 3,
       "team": "Porcinos FC",
@@ -218,7 +218,7 @@
     },
     {
       "playerName": "Coro",
-      "gamesPlayed": 11,
+      "gamesPlayed": 12,
       "assists": 6,
       "rank": 4,
       "team": "Kunisports",
