@@ -420,48 +420,6 @@
     }
   },
   {
-    "role": "JaviMedio",
-    "firstName": "",
-    "lastName": "",
-    "image": "pio-fc-.webp",
-    "name": " ",
-    "id": "pio-fc-5",
-    "team": {
-      "id": "pio-fc",
-      "name": "PIO FC",
-      "image": "https://kingsleague.dev/teams/logos/pio.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/pio-inverse.svg"
-    }
-  },
-  {
-    "role": "RubénMedio",
-    "firstName": "",
-    "lastName": "",
-    "image": "ultimate-mostoles-.webp",
-    "name": " ",
-    "id": "ultimate-mostoles-8",
-    "team": {
-      "id": "ultimate-mostoles",
-      "name": "Ultimate Móstoles",
-      "image": "https://kingsleague.dev/teams/logos/ultimate-mostoles.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/ultimate-mostoles-inverse.svg"
-    }
-  },
-  {
-    "role": "EnigmaMedio",
-    "firstName": "",
-    "lastName": "",
-    "image": "xbuyer-team-.webp",
-    "name": " ",
-    "id": "xbuyer-team-69",
-    "team": {
-      "id": "xbuyer-team",
-      "name": "XBUYER TEAM",
-      "image": "https://kingsleague.dev/teams/logos/xbuyer.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/xbuyer-inverse.svg"
-    }
-  },
-  {
     "role": "DavidDelantero",
     "firstName": "",
     "lastName": "",
@@ -501,6 +459,48 @@
       "name": "Los Troncos FC",
       "image": "https://kingsleague.dev/teams/logos/los-troncos.svg",
       "imageWhite": "https://kingsleague.dev/teams/logos/los-troncos-inverse.svg"
+    }
+  },
+  {
+    "role": "JaviMedio",
+    "firstName": "",
+    "lastName": "",
+    "image": "pio-fc-.webp",
+    "name": " ",
+    "id": "pio-fc-5",
+    "team": {
+      "id": "pio-fc",
+      "name": "PIO FC",
+      "image": "https://kingsleague.dev/teams/logos/pio.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/pio-inverse.svg"
+    }
+  },
+  {
+    "role": "RubénMedio",
+    "firstName": "",
+    "lastName": "",
+    "image": "ultimate-mostoles-.webp",
+    "name": " ",
+    "id": "ultimate-mostoles-8",
+    "team": {
+      "id": "ultimate-mostoles",
+      "name": "Ultimate Móstoles",
+      "image": "https://kingsleague.dev/teams/logos/ultimate-mostoles.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/ultimate-mostoles-inverse.svg"
+    }
+  },
+  {
+    "role": "EnigmaMedio",
+    "firstName": "",
+    "lastName": "",
+    "image": "xbuyer-team-.webp",
+    "name": " ",
+    "id": "xbuyer-team-69",
+    "team": {
+      "id": "xbuyer-team",
+      "name": "XBUYER TEAM",
+      "image": "https://kingsleague.dev/teams/logos/xbuyer.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/xbuyer-inverse.svg"
     }
   },
   {
