@@ -1,5 +1,19 @@
 [
   {
+    "role": "SpursitoMedio",
+    "firstName": "",
+    "lastName": "",
+    "image": "rayo-barcelona-.webp",
+    "name": " ",
+    "id": "rayo-barcelona-RayoBCN_7B",
+    "team": {
+      "id": "rayo-barcelona",
+      "name": "Rayo de Barcelona",
+      "image": "https://kingsleague.dev/teams/logos/rayo-barcelona.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/rayo-barcelona-inverse.svg"
+    }
+  },
+  {
     "role": "GerardDelantero",
     "firstName": "",
     "lastName": "",
@@ -28,21 +42,7 @@
     }
   },
   {
-    "role": "MauricioDelantero",
-    "firstName": "",
-    "lastName": "",
-    "image": "kunisports-.webp",
-    "name": " ",
-    "id": "kunisports-Kunisports_96",
-    "team": {
-      "id": "kunisports",
-      "name": "Kunisports",
-      "image": "https://kingsleague.dev/teams/logos/kunisports.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/kunisports-inverse.svg"
-    }
-  },
-  {
-    "role": "MauricioDelantero",
+    "role": "M. del CastilloDelantero",
     "firstName": "",
     "lastName": "",
     "image": "kunisports-.webp",
@@ -75,7 +75,7 @@
     "lastName": "",
     "image": "aniquiladores-fc-.webp",
     "name": " ",
-    "id": "aniquiladores-fc-Aniquiladores_28",
+    "id": "aniquiladores-fc-Aniquiladores_28-1",
     "team": {
       "id": "aniquiladores-fc",
       "name": "Aniquiladores FC",
@@ -420,6 +420,34 @@
     }
   },
   {
+    "role": "IbaiDelantero",
+    "firstName": "",
+    "lastName": "",
+    "image": "jijantes-fc-.webp",
+    "name": " ",
+    "id": "jijantes-fc-11",
+    "team": {
+      "id": "jijantes-fc",
+      "name": "Jijantes FC",
+      "image": "https://kingsleague.dev/teams/logos/jijantes.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/jijantes-inverse.svg"
+    }
+  },
+  {
+    "role": "VíctorMedio",
+    "firstName": "",
+    "lastName": "",
+    "image": "los-troncos-fc-.webp",
+    "name": " ",
+    "id": "los-troncos-fc-20",
+    "team": {
+      "id": "los-troncos-fc",
+      "name": "Los Troncos FC",
+      "image": "https://kingsleague.dev/teams/logos/los-troncos.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/los-troncos-inverse.svg"
+    }
+  },
+  {
     "role": "JaviMedio",
     "firstName": "",
     "lastName": "",
@@ -473,34 +501,6 @@
       "name": "Aniquiladores FC",
       "image": "https://kingsleague.dev/teams/logos/aniquiladores.svg",
       "imageWhite": "https://kingsleague.dev/teams/logos/aniquiladores-inverse.svg"
-    }
-  },
-  {
-    "role": "IbaiDelantero",
-    "firstName": "",
-    "lastName": "",
-    "image": "jijantes-fc-.webp",
-    "name": " ",
-    "id": "jijantes-fc-11",
-    "team": {
-      "id": "jijantes-fc",
-      "name": "Jijantes FC",
-      "image": "https://kingsleague.dev/teams/logos/jijantes.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/jijantes-inverse.svg"
-    }
-  },
-  {
-    "role": "VíctorMedio",
-    "firstName": "",
-    "lastName": "",
-    "image": "los-troncos-fc-.webp",
-    "name": " ",
-    "id": "los-troncos-fc-20",
-    "team": {
-      "id": "los-troncos-fc",
-      "name": "Los Troncos FC",
-      "image": "https://kingsleague.dev/teams/logos/los-troncos.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/los-troncos-inverse.svg"
     }
   },
   {
